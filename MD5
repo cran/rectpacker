@@ -1,0 +1,17 @@
+904670da4c708fddf93cc2fe9c74020e *DESCRIPTION
+0839158ef079ee2e0680db6ed52cc404 *LICENSE
+afa0a4745822b9b86cd443f62897bbd8 *NAMESPACE
+5f98be5142cb4c8d7fa549968532aece *NEWS.md
+58915f39c192063893651739db7dd637 *R/aaa.R
+85f39736c3dc902d988d640e33b13421 *R/rect_pack.R
+2598b7de655fe8d2aae709bc1713dee2 *inst/COPYRIGHTS
+d29d8d2901c82871ed171b0dd6cfb681 *man/calc_small_box.Rd
+60e4e2a6b63989e5b1c33cfa2a7dd0bc *man/pack_rects.Rd
+1a2196898f39baca601aef28f26f88f2 *src/Makevars
+500b9cd5f130d09fd46c805d7d98ef84 *src/init.c
+5cbecb395197d4e50931db2b57011887 *src/rect_pack.c
+dbd903217c1186e029762d5eae72622c *src/stb_rect_pack.h
+7513f34664f79ca334cbe2a7f33cddcd *src/utils.c
+2c1de8d6c2b8266657d40f28104df42b *src/utils.h
+5af04738c61e7b8bbb13c2f93b45bd11 *tests/testthat.R
+389331539887b63aea07e3e3f60d6912 *tests/testthat/test-basic.R
